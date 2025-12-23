@@ -1,0 +1,5 @@
+com\artcafe\ArtCafeApplication.class
+com\artcafe\controller\HomeController.class
+com\artcafe\entity\Booking.class
+com\artcafe\repository\BookingRepository.class
+com\artcafe\controller\BookingController.class
